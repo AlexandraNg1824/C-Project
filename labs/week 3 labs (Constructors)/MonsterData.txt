@@ -1,0 +1,4 @@
+Frankenstein f 125
+Dracula d 200
+Wolfman w 250
+Elvira  e 35
